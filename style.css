@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+.title {
+    color: chocolate;
+}
+
+hr {
+    border-color: chocolate;
+}
+
+.quote {
+    color: grey;
+    font-style: italic;
+    border-left: 5px solid chocolate;
+    text-align: center;
+    display: inline-block;
+}
